@@ -1,8 +1,8 @@
 import react from "react";
 
-import Lab61 from "./lab61";
+import Lab62 from "./lab62";
 const App = () => {
-  return <Lab61></Lab61>;
+  return <Lab62></Lab62>;
 };
 
 export default App;
